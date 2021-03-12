@@ -61,7 +61,6 @@ img{
 
 .main img{
     justify-self: flex-end;
-    /* height: 90vh; */
 }
 
 .main .grid{
@@ -81,6 +80,7 @@ img{
 
 .img-container{
     height: 600px;
+    margin-bottom: 40px;
 }
 /* .main{
     border: 2px solid tomato;
